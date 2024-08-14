@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "title": "Product 1",
+            "price": 29.99,
+            "discount": 0.1,
+            "state": "new",
+            "img": "img1.jpg"
+        },
+        {
+            "title": "Product 2",
+            "price": 49.99,
+            "discount": 0.2,
+            "state": "used",
+            "img": "img2.jpg"
+        },
+        {
+            "title": "Product 3",
+            "price": 19.99,
+            "discount": 0.15,
+            "state": "new",
+            "img": "img3.jpg"
+        },
+        {
+            "title": "Product 4",
+            "price": 99.99,
+            "discount": 0.05,
+            "state": "refurbished",
+            "img": "img4.jpg"
+        },
+        {
+            "title": "Product 5",
+            "price": 39.99,
+            "discount": 0.25,
+            "state": "new",
+            "img": "img5.jpg"
+        }
+    ]
+}
